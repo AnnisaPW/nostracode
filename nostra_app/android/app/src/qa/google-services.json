@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "538269723860",
+    "project_id": "nostra-qa",
+    "storage_bucket": "nostra-qa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538269723860:android:de20ae0dd7f0a880365f41",
+        "android_client_info": {
+          "package_name": "com.nostracode.android.qa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPklHA4Ywahg6BECrmWuyaVPfnPof2XtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "dev": "nostra-dev",
+    "stg": "nostra-stg",
+    "prod": "nostracode-app",
+    "test": "nostracode-test",
+    "qa": "nostra-qa"
+  },
+  "targets": {},
+  "etags": {}
+}

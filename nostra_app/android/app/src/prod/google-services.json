@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "61607506684",
+    "project_id": "nostracode-app",
+    "storage_bucket": "nostracode-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61607506684:android:f4353a3b22a9e3763c5d79",
+        "android_client_info": {
+          "package_name": "com.nostracode.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd8H1Oh7qm-kei7OjlFaitM5Rt81ftIXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

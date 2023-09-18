@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683765148604",
+    "project_id": "nostra-stg",
+    "storage_bucket": "nostra-stg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683765148604:android:c9a578950f55c619db99b9",
+        "android_client_info": {
+          "package_name": "com.nostracode.android.stg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH9pSEwRGfwI9jIFD5srv-J95A4G5lwlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
